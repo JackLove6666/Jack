@@ -1,0 +1,2 @@
+1.spring通过applicationContext获取bean
+在实现中，自定义一个类实现ApplicationContextAware接口
